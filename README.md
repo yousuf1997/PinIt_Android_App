@@ -4,7 +4,7 @@
  The users able to share the locations to anyone as a google maps links, and the users able to navigate to pinned location via Google Maps app.
  
 ## PinIt App Logo
- ![Image description](https://github.com/yousuf1997/PinIt_Android_App/blob/master/marker.png |  width=100)
+ ![Image description](<img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/marker.png" width="100" height="150")
  
 ## Splash Screen 
  ![Image description](https://github.com/yousuf1997/PinIt_Android_App/blob/master/splash.PNG)
