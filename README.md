@@ -22,4 +22,4 @@
 <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/main4.PNG" width="180" height="300">
 
 ## License
-## Free. 
+#### MIT.
