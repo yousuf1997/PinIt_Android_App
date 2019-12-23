@@ -10,5 +10,9 @@
 <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/splash.PNG" width="180" height="300">
 
 ## Main Screen 
-### To pin location, the users have to click the pin logo.
+#### To pin location, the users have to click the pin button.
 <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/main.PNG" width="180" height="300">
+
+## Main Screen 
+#### After clicking the pin button, the user will prompt a dialog, and the user have to give a name to the location.
+<img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/main2.PNG" width="180" height="300">
