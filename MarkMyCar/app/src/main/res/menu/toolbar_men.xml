@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu1"
+        android:icon="@drawable/toolbar_menu"
+        android:title="Clear History"
+        app:showAsAction="ifRoom"
+        >
+        <menu>
+            <item
+                android:id="@+id/eraseHistory"
+                android:title="Clear Pins."
+                android:icon="@drawable/ic_history_black_24dp"
+               ></item>
+        </menu>
+
+    </item>
+
+
+</menu>
