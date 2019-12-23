@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-//MAP FRAGMENT
+//MAP FRAGMENT (History)
 public class HistoryFragment extends Fragment   {
 
 
