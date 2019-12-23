@@ -7,5 +7,5 @@
  <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/marker.png" width="200" height="200">
  
 ## Splash Screen 
-<img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/splash.PNG" width="190" height="300">
+<img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/splash.PNG" width="180" height="300">
 
