@@ -14,5 +14,9 @@
 <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/main.PNG" width="180" height="300">
 
 ## Main Screen 
-#### After clicking the pin button, the user will prompt a dialog, and the user have to give a name to the location.
+#### After clicking the pin button, the user will be prompt a dialog, and the user have to give a name to the location.
 <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/main2.PNG" width="180" height="300">
+
+## Main Screen 
+#### The user will able to see their pinned location under pinned tap, and the user have to swipe left to see the tab. The users can query their locations by licking the search icon.
+<img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/main3.PNG" width="180" height="300">
