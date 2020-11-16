@@ -2,9 +2,7 @@
 ## Description
  This App allow users to pin any locations, and the users able to query the Pinned location on the search interface of the application.
  The users able to share the locations to anyone as a google maps links, and the users able to navigate to pinned location via Google Maps app.
- 
-## PinIt App Logo
- <img src="https://github.com/yousuf1997/Angular-Demo-Project/blob/master/CovidDashboardDemo.gif" width="200" height="200">
+
  
 ## Splash Screen 
 <img src="https://github.com/yousuf1997/PinIt_Android_App/blob/master/splash.PNG" width="180" height="300">
